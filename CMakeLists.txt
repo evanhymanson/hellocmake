@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.26)
 
 project(hellocmake)
 
@@ -14,3 +14,7 @@ add_executable(app main.cpp)
 
 # link libraries to executable
 target_link_libraries(app mathlib stringlib geomlib)
+
+# enable testing
+enable_testing()
+add_subdirectory(tests)
