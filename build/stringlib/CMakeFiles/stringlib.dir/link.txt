@@ -1,2 +1,0 @@
-/usr/bin/ar qc libstringlib.a CMakeFiles/stringlib.dir/stringlib.cpp.o
-/usr/bin/ranlib libstringlib.a
