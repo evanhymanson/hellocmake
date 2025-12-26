@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeomlib.a CMakeFiles/geomlib.dir/geomlib.cpp.o
+/usr/bin/ranlib libgeomlib.a

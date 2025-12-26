@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/evanhymanson/repos/hellocmake/build/cmake_install.cmake",
+		"/Users/evanhymanson/repos/hellocmake/build/mathlib/cmake_install.cmake",
+		"/Users/evanhymanson/repos/hellocmake/build/stringlib/cmake_install.cmake",
+		"/Users/evanhymanson/repos/hellocmake/build/geomlib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

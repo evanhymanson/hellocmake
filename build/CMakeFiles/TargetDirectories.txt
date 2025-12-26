@@ -1,0 +1,12 @@
+/Users/evanhymanson/repos/hellocmake/build/CMakeFiles/app.dir
+/Users/evanhymanson/repos/hellocmake/build/CMakeFiles/edit_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/CMakeFiles/rebuild_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/mathlib/CMakeFiles/mathlib.dir
+/Users/evanhymanson/repos/hellocmake/build/mathlib/CMakeFiles/edit_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/mathlib/CMakeFiles/rebuild_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/stringlib/CMakeFiles/stringlib.dir
+/Users/evanhymanson/repos/hellocmake/build/stringlib/CMakeFiles/edit_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/stringlib/CMakeFiles/rebuild_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/geomlib/CMakeFiles/geomlib.dir
+/Users/evanhymanson/repos/hellocmake/build/geomlib/CMakeFiles/edit_cache.dir
+/Users/evanhymanson/repos/hellocmake/build/geomlib/CMakeFiles/rebuild_cache.dir
